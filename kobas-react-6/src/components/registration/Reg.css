@@ -1,0 +1,13 @@
+.Registration {
+    display: flex;
+    flex-direction: column;
+    background-color: darkcyan;
+    width: 15rem;
+    margin: auto;
+    padding: 3rem;
+    margin-top: 1rem;
+    border-radius: 16px;
+}
+.Secbut {
+    padding: 1rem 2rem;
+}
