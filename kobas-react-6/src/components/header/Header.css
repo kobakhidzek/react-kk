@@ -1,0 +1,28 @@
+.Headerdiv {
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    margin: auto;
+}
+
+.titles ul {
+    list-style-type: none;
+    display: flex;
+    gap: 7rem;
+    margin-left: 1rem;
+}
+.right {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.left {
+    display: flex;
+    align-items: center;
+    width: 40%;
+}
+.right button {
+    padding: 0.5rem;
+    background: none;
+    border-radius: 16px;
+}
